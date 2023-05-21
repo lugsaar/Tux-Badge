@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.30479999999999996
         }
       },
       "diff_pair_dimensions": [
@@ -56,7 +56,7 @@
         }
       ],
       "drc_exclusions": [
-        "silk_over_copper|165100000|75869800|2f930b1b-96d5-428a-90f6-ed572e93b036|9e32cbab-3adc-481d-867c-38f7cdd3c05d"
+        "silk_over_copper|165074600|75946000|2f930b1b-96d5-428a-90f6-ed572e93b036|31b594be-8325-41f7-b76d-c67d881e6328"
       ],
       "meta": {
         "version": 2
@@ -121,7 +121,10 @@
         "use_height_for_length_calcs": true
       },
       "track_widths": [
-        0.0
+        0.0,
+        0.3048,
+        0.4064,
+        0.6096
       ],
       "via_dimensions": [
         {
