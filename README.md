@@ -1,4 +1,4 @@
-# Tux Badge
+# Tux-Badge
 
 [![GitHub release](https://img.shields.io/github/release/lugsaar/tux_badge.svg)](https://GitHub.com/lugsaar/tux_badge/releases/) [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
