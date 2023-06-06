@@ -1,6 +1,6 @@
 # Tux-Badge
 
-[![GitHub release](https://img.shields.io/github/release/lugsaar/tux_badge.svg)](https://GitHub.com/lugsaar/tux_badge/releases/) [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![GitHub release](https://img.shields.io/github/release/lugsaar/Tux-Badge.svg)](https://GitHub.com/lugsaar/Tux-Badge/releases/) [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 Inspired by a small [SMD tutorial](https://git.hacksaar.de/makeit/smdtutorial) of a local [hackerspace](https://www.hacksaar.de/), we took the Linux brand character as a basis for this Badge. Thereby we want to give first SMD experiences to interested by a simple and straightforward example.
 
