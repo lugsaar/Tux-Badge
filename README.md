@@ -6,12 +6,21 @@ Inspired by a small [SMD tutorial](https://git.hacksaar.de/makeit/smdtutorial) o
 
 ## Images 
 
-![front](/Images/tux_badge_top.png)
+![front](/images/tux_badge_top.png)
 <br>
 <br>
-![front](/Images/tux_badge_bottom.png)
+![front](/images/tux_badge_bottom.png)
 
-## License 
+## Bill of Material
+
+| Designator |       Package      | Quantity |   Designation   | LCSC      |
+|:----------:|:------------------:|----------|:---------------:|:---------:|
+| BT1        | SMD Battery Holder | 1        | CR2023          | C964829   |
+| D1         | 0805 SMD LED       | 1        | LED Yellow      | C434436   |
+| R1         | 0805 SMD Resistor  | 1        |  62 Ohm         | C865596   |
+| SW1        | SMD Switch         | 1        |                 | C202424   |
+
+## Copyright and Authorship 
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].

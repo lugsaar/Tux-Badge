@@ -56,7 +56,7 @@
         }
       ],
       "drc_exclusions": [
-        "silk_over_copper|165074600|75946000|2f930b1b-96d5-428a-90f6-ed572e93b036|31b594be-8325-41f7-b76d-c67d881e6328"
+        "silk_over_copper|165227000|75996800|2f930b1b-96d5-428a-90f6-ed572e93b036|b6513446-5c0f-42d0-9b8a-62422fbd4b88"
       ],
       "meta": {
         "version": 2
@@ -421,7 +421,7 @@
       "model_mode": 0,
       "workbook_filename": ""
     },
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "lugsaar.kicad_wks",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
