@@ -15,7 +15,7 @@ Inspired by a small [SMD tutorial](https://git.hacksaar.de/makeit/smdtutorial) o
 
 | Designator |       Package      | Quantity |   Designation   | LCSC      |
 |:----------:|:------------------:|----------|:---------------:|:---------:|
-| BT1        | SMD Battery Holder | 1        | CR2023          | C964829   |
+| BT1        | SMD Battery Holder | 1        | CR2032          | C964829   |
 | D1         | 0805 SMD LED       | 1        | LED Yellow      | C434436   |
 | R1         | 0805 SMD Resistor  | 1        |  62 Ohm         | C865596   |
 | SW1        | SMD Switch         | 1        |                 | C202424   |
